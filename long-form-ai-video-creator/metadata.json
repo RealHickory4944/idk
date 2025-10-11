@@ -1,0 +1,5 @@
+{
+  "name": "Long form AI video creator",
+  "description": "An application to generate scene ideas for a long-form video using Gemini, and then generate video clips using a free AI model from Hugging Face.",
+  "requestFramePermissions": []
+}
